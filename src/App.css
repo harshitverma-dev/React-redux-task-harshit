@@ -1,0 +1,10 @@
+body{
+    font-family: 'poppins';
+    background-color: #ebebeb;
+}
+
+.loader-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

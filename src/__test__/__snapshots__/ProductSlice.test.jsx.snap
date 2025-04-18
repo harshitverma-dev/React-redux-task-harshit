@@ -1,0 +1,16 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Product Reducer > matches snapshot 1`] = `
+{
+  "categoryListingData": [],
+  "error": null,
+  "isLoading": false,
+  "productDetails": {},
+  "productListingData": [
+    {
+      "id": 1,
+      "title": "Product 1",
+    },
+  ],
+}
+`;

@@ -1,0 +1,49 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Loader Component > matches snapshot 1`] = `
+<div>
+  <div
+    class="loader-container"
+    data-testid="loader-container"
+  >
+    <svg
+      class="loader"
+      data-testid="loader-svg"
+      height="40"
+      stroke="#4F46E5"
+      viewBox="0 0 40 40"
+      width="40"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <g
+        fill="none"
+        fill-rule="evenodd"
+      >
+        <g
+          stroke-width="3"
+          transform="translate(2 2)"
+        >
+          <circle
+            cx="18"
+            cy="18"
+            r="18"
+            stroke-opacity=".2"
+          />
+          <path
+            d="M36 18c0-9.94-8.06-18-18-18"
+          >
+            <animatetransform
+              attributeName="transform"
+              dur=".8s"
+              from="0 18 18"
+              repeatCount="indefinite"
+              to="360 18 18"
+              type="rotate"
+            />
+          </path>
+        </g>
+      </g>
+    </svg>
+  </div>
+</div>
+`;

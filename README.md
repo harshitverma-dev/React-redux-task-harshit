@@ -20,8 +20,8 @@ Before running this project, make sure you have:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd react-redux-task
+git clone https://github.com/harshitverma-dev/React-redux-task-harshit.git
+cd React-redux-task-harshit
 ```
 
 2. Install dependencies:

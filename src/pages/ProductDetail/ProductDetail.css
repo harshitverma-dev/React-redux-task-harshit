@@ -49,6 +49,7 @@
 
 .product-pricing {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     padding: 1rem 0;
@@ -89,6 +90,7 @@
 .product-title-backbtn {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     align-items: center;
 }
 

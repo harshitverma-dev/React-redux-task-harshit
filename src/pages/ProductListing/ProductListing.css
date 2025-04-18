@@ -1,5 +1,5 @@
 .product-listing-container {
-    width: 820px;
+    max-width: 820px;
     margin: 30px auto;
     padding: 20px 30px;
     background-color: #fff;
@@ -70,6 +70,10 @@ ul.category-list select {
         padding: 12px 16px;
         font-size: 0.9rem;
     }
+    .product-listing-container {
+        margin: 30px 20px;
+    }
 }
+
 
 
